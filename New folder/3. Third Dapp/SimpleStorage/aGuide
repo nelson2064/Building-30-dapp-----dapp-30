@@ -14,7 +14,7 @@ npm install -g truffle
                    // 7. truffle test
 
       
-// 3.migrations
+// 3.migrations >> wha is migration it is basically means you are chnaging the blockchain state blockchain is none state you changing or you migrating   so blockchain is one state you migrating in another state so when you create smart contract on the blockchain you are migrating you are creating a new transaction you are changing the blockcahin state 
 
 
 
